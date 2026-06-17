@@ -1,5 +1,6 @@
 # Library-installation-auto
-Installation des library automatique des scripts
-(ameliorer le script car pas si fonctionnel)
+Installation automatique des bibliothèques pour les scripts
+Amélioration en cours (fonctionnalité partielle)
 
-Derniere maj le 6/06/2024
+Objectif : Automatiser l'installation des dépendances nécessaires à l'exécution des scripts.
+Dernière mise à jour : 6 juin 2024
